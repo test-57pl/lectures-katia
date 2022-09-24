@@ -9,7 +9,7 @@
 | _17.09.22_ | [задачи](/работа_на_уроке_(17.09).pdf) | [zoom](https://drive.google.com/drive/folders/1hUbH70Z55wOBYa_9lzcUe6cgTfK9fsdC?usp=sharing) |
 | _19.09.22_ | [тетрадка](https://colab.research.google.com/drive/1Y8HF2i2IV5ziWTzS6xkXEKJGEQ0N4yhf?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1v-GNeViZUiRcxF57FUy47NRQ6myIQV6P?usp=sharing) |
 | _23.09.22_ | [тетрадка](https://colab.research.google.com/drive/1f1NPMI1mZpcpEaSjkRDvTz3rjw7NVgCx?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1Pbm8iOVfpR4bXy816OD4d5VE715UqC1o?usp=sharing) |
-| _24.09.22_ | [задача](/работа_на_уроке_(24.09).pdf) |                  |
+| _24.09.22_ | [задачи](/работа_на_уроке_(24.09).pdf) |                  |
 
 ### Домашнее задание
 |    **Дедлайн**   |                   **Ссылка**                   |
