@@ -20,3 +20,4 @@
 
 ### Полезные ссылки
 * [вырезка](https://drive.google.com/drive/folders/13-Q4TkaAUxM-xYAf6kaMrVOnasrxrhch?usp=sharing) про сдачу дз
+* [шпаргалка](/шпаргалка_regexp.png) по регляркам
