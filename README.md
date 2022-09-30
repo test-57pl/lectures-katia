@@ -11,6 +11,7 @@
 | _23.09.22_ | [тетрадка](https://colab.research.google.com/drive/1f1NPMI1mZpcpEaSjkRDvTz3rjw7NVgCx?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1Pbm8iOVfpR4bXy816OD4d5VE715UqC1o?usp=sharing) |
 | _24.09.22_ | [задачи](/работа_на_уроке_(24.09).pdf) |                  |
 | _26.09.22_ | [тетрадка](https://colab.research.google.com/drive/1bO0jWCEkz9hdtczRVk6jxdri7NKnyHco?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1-t_mHxwQk-v-jnlSLGmLQWIpD0xyAvRu?usp=sharing) |
+| _30.09.22_ | [дополненная тетрадка](https://colab.research.google.com/drive/1f1NPMI1mZpcpEaSjkRDvTz3rjw7NVgCx?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1SMwUImTfVcbd3qw7FfHdegLQbMWjPNLk?usp=sharing) |
 
 
 ### Домашнее задание
