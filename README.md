@@ -13,6 +13,8 @@
 | _26.09.22_ | [тетрадка](https://colab.research.google.com/drive/1bO0jWCEkz9hdtczRVk6jxdri7NKnyHco?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1-t_mHxwQk-v-jnlSLGmLQWIpD0xyAvRu?usp=sharing)<br>[youtube](https://youtu.be/clP-V0lfXj8) | регулярные выражения (regexp) |
 | _30.09.22_ | [дополненная тетрадка](https://colab.research.google.com/drive/1f1NPMI1mZpcpEaSjkRDvTz3rjw7NVgCx?usp=sharing)<br>[задачи](/работа_на_уроке_(30.09).pdf) | [zoom](https://drive.google.com/drive/folders/1SMwUImTfVcbd3qw7FfHdegLQbMWjPNLk?usp=sharing)<br>[youtube](https://youtu.be/DMDpLsHDnNk) | дополненные циклы: `break`, `continue`, `else` |
 | _14.10.22_ | [тетрадка](https://colab.research.google.com/drive/1UYkG7Wj_CwZ_EssvT3lDF0Z-7xQ_124G?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1s39gZ5_1Wme2wBpFFIUcpRbrlwsanCdP?usp=sharing)<br>[youtube](https://youtu.be/7jupeiuco8Y) | как гуглить?<br>строки, `.strip()`, `.split()`, `.find()`, `.replace()`<br>модуль `re`, `re.match()`, `re.findall()` |
+| _15.10.22_ | [задачи](/работа_на_уроке_(15.10).pdf) |                  |                  |
+| _17.10.22_ | [тетрадка](https://colab.research.google.com/drive/1qFRMFnfMRNAH-_QHCDmzNXnjlcC5VqMb?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1AqPXuRruMj522rrPpC6TrBIkpa0hPgMY?usp=sharing)<br>[youtube]() |  |
 
 
 ### Домашнее задание
