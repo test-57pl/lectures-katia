@@ -15,7 +15,8 @@
 | _14.10.22_ | [тетрадка](https://colab.research.google.com/drive/1UYkG7Wj_CwZ_EssvT3lDF0Z-7xQ_124G?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1s39gZ5_1Wme2wBpFFIUcpRbrlwsanCdP?usp=sharing)<br>[youtube](https://youtu.be/7jupeiuco8Y) | как гуглить?<br>строки, `.strip()`, `.split()`, `.find()`, `.replace()`<br>модуль `re`, `re.match()`, `re.findall()` |
 | _15.10.22_ | [задачи](/работа_на_уроке_(15.10).pdf) |                  |                  |
 | _17.10.22_ | [тетрадка](https://colab.research.google.com/drive/1qFRMFnfMRNAH-_QHCDmzNXnjlcC5VqMb?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1AqPXuRruMj522rrPpC6TrBIkpa0hPgMY?usp=sharing)<br>[youtube](https://youtu.be/N6Ekqd0yzuI) | списки: `list()`<br>`.append()`, `.extend()`<br>`.reverse()`, `.sort()`, `.join()` |
-| _21.10.22_ | [тетрадка](https://colab.research.google.com/drive/11-7PvHkJI_VB2RUz934_Eyd0FOyw2BNs?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1AqPXuRruMj522rrPpC6TrBIkpa0hPgMY?usp=sharing)<br>[youtube](https://drive.google.com/drive/folders/1XeZgDa0vaawbzFNgeotV5GD0wd_6j828?usp=sharing) |  |
+| _21.10.22_ | [тетрадка](https://colab.research.google.com/drive/11-7PvHkJI_VB2RUz934_Eyd0FOyw2BNs?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1XeZgDa0vaawbzFNgeotV5GD0wd_6j828?usp=sharing)<br>[youtube]() |  |
+| _22.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 
 
 ### Домашнее задание
