@@ -17,6 +17,8 @@
 | _17.10.22_ | [тетрадка](https://colab.research.google.com/drive/1qFRMFnfMRNAH-_QHCDmzNXnjlcC5VqMb?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1AqPXuRruMj522rrPpC6TrBIkpa0hPgMY?usp=sharing)<br>[youtube](https://youtu.be/N6Ekqd0yzuI) | списки: `list()`<br>`.append()`, `.extend()`<br>`.reverse()`, `.sort()`, `.join()` |
 | _21.10.22_ | [тетрадка](https://colab.research.google.com/drive/11-7PvHkJI_VB2RUz934_Eyd0FOyw2BNs?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1XeZgDa0vaawbzFNgeotV5GD0wd_6j828?usp=sharing)<br>[youtube](https://youtu.be/wqdCJeNrzwk) | разбор ДЗ1<br>дополнения:<br>`float`, `string`, `list` |
 | _22.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
+| _24.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
+| _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[разбор ДЗ№2](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  |  |
 
 
 ### Домашнее задание
