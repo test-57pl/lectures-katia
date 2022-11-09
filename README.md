@@ -19,6 +19,7 @@
 | _22.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 | _24.10.22_ | [задачи](/работа_на_уроке_(22.10).pdf) |  |  |
 | _28.10.22_ | [задачи](/работа_на_уроке_(28.10).pdf)<br>[тетрадка](https://colab.research.google.com/drive/1-1cpWtO5JwPfw81CKIRmn_Jz-mijtOzF?usp=sharing) |  | разбор ДЗ2 |
+| _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
 
 
 ### Домашнее задание
@@ -26,7 +27,7 @@
 |:--------------------------------:|:-----------------------------------:|:----------------------------------------------:|
 |       _29.09.22 23:59_           |          _06.10.22 23:59_           | [ДЗ1](https://classroom.github.com/a/JDx-LqEF) |
 |       _15.10.22 23:59_           |          _22.10.22 23:59_           | [ДЗ2](https://classroom.github.com/a/DJvvPPSb) |
-|       _27.10.22 23:59_           |          _03.11.22 23:59_           | [ДЗ3](https://classroom.github.com/a/TGgu0kMy) |
+|       _09.11.22 23:59_           |          _16.11.22 23:59_           | [ДЗ3](https://classroom.github.com/a/TGgu0kMy) |
 
 ### Полезные ссылки
 * [вырезка](https://drive.google.com/drive/folders/13-Q4TkaAUxM-xYAf6kaMrVOnasrxrhch?usp=sharing) про сдачу дз
