@@ -22,6 +22,7 @@
 | _07.11.22_ | [тетрадка](https://colab.research.google.com/drive/17vRgsEZjBd4vNdf1QBKqfzgWKR-peKI_?usp=sharing) |  | кортежи: `tuple()`<br>множества: `set()`, `frozenset()` |
 | _11.11.22_ | [задачи](/работа_на_уроке_(11.11).pdf) |  |  |
 | _12.11.22_ | [задачи](/работа_на_уроке_(12.11).pdf) |  |  |
+| _14.11.22_ | [тетрадка](https://colab.research.google.com/drive/1y-7GmIv75GWNlgIVbbFJM3q-ScUGtnjZ?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1IUlE-rYBI7Xc4kJC4_p7yvjsymJBSCnw?usp=share_link)<br>[youtube](https://youtu.be/NNMgVtPIUpQ) | путь к файлу: абсолютный / относительный<br>`os`, `pathlib.Path`, `wget.download()`<br>файлы: `'r'`<br>`open()`, `with open(...) as ...`, `.close()`<br>`.read()`, `.readline()`, `.readline()` |
 
 
 ### Домашнее задание
