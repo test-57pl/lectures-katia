@@ -25,6 +25,7 @@
 | _14.11.22_ | [тетрадка](https://colab.research.google.com/drive/1y-7GmIv75GWNlgIVbbFJM3q-ScUGtnjZ?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1IUlE-rYBI7Xc4kJC4_p7yvjsymJBSCnw?usp=share_link)<br>[youtube](https://youtu.be/NNMgVtPIUpQ) | путь к файлу: абсолютный / относительный<br>`os`, `pathlib.Path`, `wget.download()`<br>файлы: `'r'`<br>`open()`, `with open(...) as ...`, `.close()`<br>`.read()`, `.readline()`, `.readline()` |
 | _18.11.22_ | [тетрадка](https://colab.research.google.com/drive/1b3PtnE0xELR7vFvC8bTXw4sBfTOzqXly?usp=sharing)<br>[задачи](/работа_на_уроке_(18.11).pdf) |  | файлы: `'w'`<br>`.write()`, `.writelines()` |
 | _19.11.22_ | [задачи](/работа_на_уроке_(18.11).pdf) |  |  |
+| _18.11.22_ | [тетрадка](https://colab.research.google.com/drive/1XFYjW1dJs2e5Ai28q8Tnmlg5juXAIHTY?usp=sharing) |  | словари: `dict()`<br>`.get()`<br>`.items()`, `.keys()`, `.values()`<br>сортировка по ключу / значению |
 
 
 ### Домашнее задание
@@ -33,6 +34,7 @@
 |       _29.09.22 23:59_           |          _06.10.22 23:59_           | [ДЗ1](https://classroom.github.com/a/JDx-LqEF) |
 |       _15.10.22 23:59_           |          _22.10.22 23:59_           | [ДЗ2](https://classroom.github.com/a/DJvvPPSb) |
 |       _09.11.22 23:59_           |          _16.11.22 23:59_           | [ДЗ3](https://classroom.github.com/a/TGgu0kMy) |
+|       _26.11.22 23:59_           |          _03.12.22 23:59_           | [ДЗ4](https://classroom.github.com/a/QmNY0xdF) |
 
 ### Полезные ссылки
 * [вырезка](https://drive.google.com/drive/folders/13-Q4TkaAUxM-xYAf6kaMrVOnasrxrhch?usp=sharing) про сдачу дз
