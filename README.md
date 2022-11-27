@@ -26,7 +26,8 @@
 | _18.11.22_ | [тетрадка](https://colab.research.google.com/drive/1b3PtnE0xELR7vFvC8bTXw4sBfTOzqXly?usp=sharing)<br>[задачи](/работа_на_уроке_(18.11).pdf) |  | файлы: `'w'`<br>`.write()`, `.writelines()` |
 | _19.11.22_ | [задачи](/работа_на_уроке_(18.11).pdf) |  |  |
 | _18.11.22_ | [тетрадка](https://colab.research.google.com/drive/1XFYjW1dJs2e5Ai28q8Tnmlg5juXAIHTY?usp=sharing) |  | словари: `dict()`<br>`.get()`<br>`.items()`, `.keys()`, `.values()`<br>сортировка по ключу / значению |
-| _25-26.11.22_ | [задачи](/работа_на_уроке_(25-26.11).pdf) |  |  |
+| _25.11.22_ | [задачи](/работа_на_уроке_(25-26.11).pdf) |  |  |
+| _26.11.22_ | [задачи](/работа_на_уроке_(25-26.11).pdf) |  |  |
 
 
 ### Домашнее задание
