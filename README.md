@@ -31,6 +31,7 @@
 | _28.11.22_ | [задачи](/работа_на_уроке_(28.11).pdf) |  |  |
 | _02.12.22_ | [задачи](/работа_на_уроке_(28.11).pdf) |  |  |
 | _03.12.22_ | [задачи](/работа_на_уроке_(03.12).pdf) |  |  |
+| _05.12.22_ | [тетрадка](https://colab.research.google.com/drive/1sYfTu_e8T2gZazDyTK3AfcotCbgiml4q?usp=sharing) | [zoom](https://drive.google.com/drive/folders/10XjtOn_UgKRtsIx8gfJSB_LGGcHu9k7H?usp=share_link)<br>[youtube]() |  |
 
 
 ### Домашнее задание
