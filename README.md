@@ -34,6 +34,7 @@
 | _05.12.22_ | [тетрадка](https://colab.research.google.com/drive/1sYfTu_e8T2gZazDyTK3AfcotCbgiml4q?usp=sharing) | [zoom](https://drive.google.com/drive/folders/10XjtOn_UgKRtsIx8gfJSB_LGGcHu9k7H?usp=share_link)<br>[youtube](https://youtu.be/mmX9aI2_ixM) | обработка: `pymorphy2`<br>`.MorphAnalyzer().parse()`, `.normal_form`, `.tag`<br>`.inflect()`, `.lexeme` |
 | _09.12.22_ | [тетрадка](https://colab.research.google.com/drive/1sYfTu_e8T2gZazDyTK3AfcotCbgiml4q?usp=sharing) |  | предобработка: `nltk`<br>`.sent_tokenize()`, `.word_tokenize()`, `nltk.corpus.stopwords.words()` |
 | _10.12.22_ | [задачи](/работа_на_уроке_(10.12).pdf) |  |  |
+| _10.12.22_ | [проект](/проект (12.12-19.12).md) |  |  |
 
 
 ### Домашнее задание
