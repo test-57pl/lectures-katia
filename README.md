@@ -35,6 +35,7 @@
 | _09.12.22_ | [тетрадка](https://colab.research.google.com/drive/1sYfTu_e8T2gZazDyTK3AfcotCbgiml4q?usp=sharing) |  | предобработка: `nltk`<br>`.sent_tokenize()`, `.word_tokenize()`, `nltk.corpus.stopwords.words()` |
 | _10.12.22_ | [задачи](/работа_на_уроке_(10.12).pdf) |  |  |
 | _12.12.22_ | [проект](https://github.com/test-57pl/lectures-katia/blob/main/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20(12.12-19.12).md) |  |  |
+| _24.12.22_ | [задачи](/работа_на_уроке_(24.12).pdf) |  |  |
 
 
 ### Домашнее задание
