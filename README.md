@@ -38,6 +38,7 @@
 | _24.12.22_ | [задачи](/работа_на_уроке_(24.12).pdf) |  |  |
 | _09.01.23_ | [задачи](/работа_на_уроке_(09.01).pdf) |  |  |
 | _13.01.23_ | [тетрадка](https://colab.research.google.com/drive/1YZGifrWPfoiI9sfgt9Y8IjKmK9xyxJOd?usp=sharing)<br>[задачи](/работа_на_уроке_(13.01).pdf) |  | файлы: повторение |
+| _16.01.23_ | [тетрадка](https://colab.research.google.com/drive/1rB1ZrVMRdi9BtVUdorMyslGplYOaH8Qj?usp=sharing) |  |  |
 
 
 ### Домашнее задание
