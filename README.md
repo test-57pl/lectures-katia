@@ -39,6 +39,7 @@
 | _09.01.23_ | [задачи](/работа_на_уроке_(09.01).pdf) |  |  |
 | _13.01.23_ | [тетрадка](https://colab.research.google.com/drive/1YZGifrWPfoiI9sfgt9Y8IjKmK9xyxJOd?usp=sharing)<br>[задачи](/работа_на_уроке_(13.01).pdf) |  | файлы: повторение |
 | _16.01.23_ | [тетрадка](https://colab.research.google.com/drive/1rB1ZrVMRdi9BtVUdorMyslGplYOaH8Qj?usp=sharing) | [zoom](https://drive.google.com/drive/folders/1Occ_tTUue5drfV9_B_EeTUycK4-n2Ts-?usp=sharing)<br>[youtube](https://youtu.be/08K0gRl8mdg) | JSON-файлы: `json`<br>`json.load() / json.loads()`<br>`json.dump() / json.dumps()`<br>модуль `random`, модуль `math`<br>`map()` |
+| _20.01.23_ | [задачи](/работа_на_уроке_(20.01).pdf) |  |  |
 
 
 ### Домашнее задание
