@@ -42,7 +42,8 @@
 | _20.01.23_ | [задачи](/работа_на_уроке_(20.01).pdf) |  |  |
 | _21.01.23_ | [задачи](/работа_на_уроке_(20.01).pdf) |  |  |
 | _23.01.23_ | [задачи](/работа_на_уроке_(23.01).pdf) |  |  |
-| _27.01.23_ | [тетрадка](https://colab.research.google.com/drive/1hSI1Vh579fHZsf0qCjiRdgMeuFPRemL_?usp=sharing)<br>[задача](/CoNLL-U.pdf) |  |  |
+| _27.01.23_ | [тетрадка](https://colab.research.google.com/drive/1hSI1Vh579fHZsf0qCjiRdgMeuFPRemL_?usp=sharing)<br>[задачи](/CoNLL-U.pdf) |  |  |
+| _28.01.23_ | [задачи](/CoNLL-U.pdf) |  |  |
 
 
 ### Домашнее задание
