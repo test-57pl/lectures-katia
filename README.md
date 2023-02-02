@@ -42,7 +42,7 @@
 | _20.01.23_ | [задачи](/работа_на_уроке_(20.01).pdf) |  |  |
 | _21.01.23_ | [задачи](/работа_на_уроке_(20.01).pdf) |  |  |
 | _23.01.23_ | [задачи](/работа_на_уроке_(23.01).pdf) |  |  |
-| _27.01.23_ | [презентация](https://docs.google.com/presentation/d/1qi4H5uGxNsgz6Xd8XlnE6dYV4EpqnDDsZHceB05GUIg/edit?usp=sharing)<br>[тетрадка](https://colab.research.google.com/drive/1hSI1Vh579fHZsf0qCjiRdgMeuFPRemL_?usp=sharing)<br>[задачи](/CoNLL-U.pdf) |  | Universal Dependencies<br>CoNLL-U файлы: `conllu`<br>`.parse()` `.filter()` |
+| _27.01.23_ | [презентация](https://docs.google.com/presentation/d/1qi4H5uGxNsgz6Xd8XlnE6dYV4EpqnDDsZHceB05GUIg/edit?usp=sharing)<br>[тетрадка](https://colab.research.google.com/drive/1hSI1Vh579fHZsf0qCjiRdgMeuFPRemL_?usp=sharing)<br>[задачи](/CoNLL-U.pdf) | [zoom](https://drive.google.com/drive/folders/1xLbAOoGIPjaSVZmhfOSxA5fXrA2O3QFN?usp=share_link)<br>[youtube](https://youtu.be/xpE1QD5YsYA) | Universal Dependencies<br>CoNLL-U файлы: `conllu`<br>`.parse()` `.filter()` |
 | _28.01.23_ | [задачи](/CoNLL-U.pdf) |  |  |
 
 
@@ -53,6 +53,7 @@
 |       _15.10.22 23:59_           |          _22.10.22 23:59_           | [ДЗ2](https://classroom.github.com/a/DJvvPPSb) |
 |       _09.11.22 23:59_           |          _16.11.22 23:59_           | [ДЗ3](https://classroom.github.com/a/TGgu0kMy) |
 |       _26.11.22 23:59_           |          _03.12.22 23:59_           | [ДЗ4](https://classroom.github.com/a/QmNY0xdF) |
+|       _09.02.23 23:59_           |          _16.02.23 23:59_           | [ДЗ5](https://classroom.github.com/a/TuZjYXOp) |
 
 ### Полезные ссылки
 * [вырезка](https://drive.google.com/drive/folders/13-Q4TkaAUxM-xYAf6kaMrVOnasrxrhch?usp=sharing) про сдачу дз
