@@ -44,10 +44,12 @@
 | _23.01.23_ | [задачи](/работа_на_уроке_(23.01).pdf) |  |  |
 | _27.01.23_ | [презентация](https://docs.google.com/presentation/d/1qi4H5uGxNsgz6Xd8XlnE6dYV4EpqnDDsZHceB05GUIg/edit?usp=sharing)<br>[тетрадка](https://colab.research.google.com/drive/1hSI1Vh579fHZsf0qCjiRdgMeuFPRemL_?usp=sharing)<br>[задачи](/CoNLL-U.pdf) | [zoom](https://drive.google.com/drive/folders/1xLbAOoGIPjaSVZmhfOSxA5fXrA2O3QFN?usp=share_link)<br>[youtube](https://youtu.be/xpE1QD5YsYA) | Universal Dependencies<br>CoNLL-U файлы: `conllu`<br>`.parse()` `.filter()` |
 | _28.01.23_ | [задачи](/CoNLL-U.pdf) |  |  |
-| _03.02.23_ | [тетрадка](https://colab.research.google.com/drive/115lNsLiYGPh3G3ApawIS0dfWElmxyn56?usp=sharing) |  |  |
+| _03.02.23_ | [тетрадка](https://colab.research.google.com/drive/115lNsLiYGPh3G3ApawIS0dfWElmxyn56?usp=sharing) |  | как пользоваться `.ipynb`?<br>MarkDown-rules |
 | _04.02.23_ | [тетрадка с заданиями](https://colab.research.google.com/drive/1X0L8EX4MTExlddkOIuR0EnAlP-VQ4RfD?usp=sharing)<br>[задача](/расстояние.pdf) |  | динамическое программирование |
 | _06.02.23_ | [задачи](/CoNLL-U_2.0.pdf) |  |  |
-| _08.02.23_ | [тетрадка](https://colab.research.google.com/drive/16tQ5xRkyKnYQb5LNe3tDRaiVFKXLPr4v?usp=sharing)<br>[задачи](/работа_на_уроке_(08.02).pdf) |  |  |
+| _08.02.23_ | [тетрадка](https://colab.research.google.com/drive/16tQ5xRkyKnYQb5LNe3tDRaiVFKXLPr4v?usp=sharing)<br>[задачи](/работа_на_уроке_(08.02).pdf) |  | функции: `def`, `return`<br>`*args`, необязательные аргументы |
+| _10.02.23_ | [задачи](/работа_на_уроке_(08.02).pdf) |  |  |
+| _13.02.23_ | [задачи](/работа_на_уроке_(13.02).pdf) |  |  |
 
 
 ### Домашнее задание
