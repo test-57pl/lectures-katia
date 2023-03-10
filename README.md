@@ -66,6 +66,8 @@
 |       _09.11.22 23:59_           |          _16.11.22 23:59_           | [ДЗ3](https://classroom.github.com/a/TGgu0kMy) |
 |       _26.11.22 23:59_           |          _03.12.22 23:59_           | [ДЗ4](https://classroom.github.com/a/QmNY0xdF) |
 |       _09.02.23 23:59_           |          _19.02.23 23:59_           | [ДЗ5](https://classroom.github.com/a/TuZjYXOp) |
+|                                  |          _14.03.23 21:00_           | [ДЗ6](https://contest.yandex.ru/contest/43926/) |
+
 
 ### Полезные ссылки
 * [вырезка](https://drive.google.com/drive/folders/13-Q4TkaAUxM-xYAf6kaMrVOnasrxrhch?usp=sharing) про сдачу дз
