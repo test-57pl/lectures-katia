@@ -58,6 +58,7 @@
 | _10.03.23_ | [задачи](/работа_на_уроке_(10.03).pdf) |  |  |
 | _13.03.23_ | [задачи](/работа_на_уроке_(13.03).pdf) |  |  |
 | _07.04.23_ | [задачи](/работа_на_уроке_(07.04).pdf) |  |  |
+| _10.04.23_ | [тетрадка](https://colab.research.google.com/drive/1bC3zpfX8FuplY6N-PYyYEuNSh5bSU7Q6?usp=sharing)<br>[задачи](/работа_на_уроке_(10.04).pdf) |  | CSV и TSV форматы: `csv`<br>`csv.reader()`, `csv.DictReader()`<br>`csv.writer()`, `csv.DictWriter()`<br>итераторы: `iter()`, `next()` |
 
 
 ### Домашнее задание
